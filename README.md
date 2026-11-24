@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The protagonist awakens in an unfamiliar world. Armed only with a knife and a gun, they must battle the succubi and rely on their skills to escape this world! !
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core2 Duo or better / Rec: 2+ GHz Processor | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Min: DirectX 9/OpenGL 4.1 capable GPU / Rec: OpenGL ES 2.0 hardware driver support required for WebG… | Metal-capable GPU |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 4 GB available space | 4 GB available space |
+| **OS *** | Windows® 7/8/8.1/10/11 | Windows® 7/8/8.1/10/11 |
 
 ---
 
